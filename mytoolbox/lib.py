@@ -1,2 +1,2 @@
 def try_me():
-    return 123
+    return "testing testing 123"
