@@ -1,2 +1,2 @@
 def try_me():
-    return 'for testing purposes'
+    return 'for testing purposes only'
