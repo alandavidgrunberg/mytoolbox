@@ -70,5 +70,5 @@ jobs:
     - uses: akhileshns/heroku-deploy@v3.0.4 # This is the action
       with:
         heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-        heroku_app_name: "thisismytoolbox"
+        heroku_app_name: "mytoolbox2"
         heroku_email: ${{secrets.HEROKU_EMAIL}}
